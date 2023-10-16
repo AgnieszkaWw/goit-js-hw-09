@@ -1,7 +1,7 @@
 {
 	"name": "parcel-project-template",
 	"version": "1.0.0",
-	"homepage": "https://github.com/AgnieszkaWw/goit-js-hw-09.git",
+	"homepage": "http://localhost:5500",
 	"description": "",
 	"main": "index.js",
 	"scripts": {
