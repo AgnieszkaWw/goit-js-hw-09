@@ -1,0 +1,14 @@
+{
+	"name": "parcel-project-template",
+	"version": "1.0.0",
+	"homepage": "https://github.com/goitacademy/parcel-project-template.git",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "npm start",
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "npm run build"
+	},
+	"author": "",
+	"license": "ISC"
+}
